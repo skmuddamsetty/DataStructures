@@ -1,13 +1,13 @@
 package com.skmuddamsetty.algorithms;
 
 /**
- * @author sanmuk
+ * @author skmuddamsetty
  *
  */
 public class BubbleSort {
-	static int[] array = CommonUtil.getArray();
-	static int totalSwaps = 0;
-	static int totalLoops = 0;
+	private static int[] array = CommonUtil.getArray();
+	private static int totalSwaps = 0;
+	private static int totalLoops = 0;
 
 	/**
 	 * @param args
