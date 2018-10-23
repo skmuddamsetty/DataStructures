@@ -27,11 +27,11 @@ public class BinaryTreeUtility {
         root.setRightChild(node3);
         node2.setLeftChild(node4);
         node2.setRightChild(node5);
-//        node4.setLeftChild(node6);
-//        node4.setRightChild(node7);
-//        node7.setLeftChild(node8);
-//        node7.setRightChild(node9);
-//        node8.setLeftChild(node10);
+        node4.setLeftChild(node6);
+        node4.setRightChild(node7);
+        node7.setLeftChild(node8);
+        node7.setRightChild(node9);
+        node8.setLeftChild(node10);
 //        node3.setRightChild(node11);
 //        node11.setLeftChild(node12);
 //        node12.setLeftChild(node13);
